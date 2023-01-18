@@ -1,6 +1,8 @@
 # thumbnail-s3-lambda
 create thumbnails using lambda
 
+![alt text](https://github.com/SeeYouOnCloud/thumbnail-s3-lambda/blob/main/CreateThumbnails.png?raw=true)
+
 Create two s3 buckets 
 
 For eg if: sourcebucket
