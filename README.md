@@ -5,7 +5,7 @@ create thumbnails using lambda
 
 Create two s3 buckets 
 
-For eg if: sourcebucket
+For eg: If your source bucket name is "sourcebucket"
 then target bucket name should be preceeded by -resized with source bucket name
 i.e sourcebucket-resized
 
